@@ -1,5 +1,4 @@
 Makefile contains the receipe to compile all the source files
 The header file(text_indexer.h) contains all the function prototypes and macros
 Run the makefile
-See the output
-
+Perform the operations as per your choice
